@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0001",
+    "cat": "cuerdas",
+    "title": "Guitarra Fender",
+    "description": "la mejor remera del mercado.",
+    "price": "5000",
+    "picUrl": "https://picsum.photos/600/400?random=1" 
+  },
+  { 
+    "id": "0002",
+    "cat": "viento",
+    "title": "Trompeta Elephant",
+    "description": "The best of the world.",
+    "price": "8000",
+    "picUrl": "https://picsum.photos/600/400?random=2" 
+  },
+  { 
+    "id": "0003",
+    "cat": "percusion",
+    "title": "Bateria Boom",
+    "description": "Sin dudas la mejor.",
+    "price": "10000",
+    "picUrl": "https://picsum.photos/600/400?random=3"
+  }
+]
